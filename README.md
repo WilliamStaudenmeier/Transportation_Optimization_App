@@ -1,2 +1,2 @@
 # TransportationOptimizationApp
-R Shiny App
+Linear optimization for B2C transportation
